@@ -1,6 +1,6 @@
 {
-  "name": "MetaTools",
+  "name": "Site",
   "tagline": "",
-  "body": "    bash-3.2$ MetaTools\r\n    bash-3.2$ \r\n    bash-3.2$ Projects:\r\n    bash-3.2$ \r\n    bash-3.2$ Sharding (android, ios)\r\n    bash-3.2$ VectBall (android, ios)\r\n    bash-3.2$ Carriers (android, ios)\r\n    bash-3.2$ Orbiters (android, ios)\r\n    bash-3.2$ \r\n    bash-3.2$ Contact",
+  "body": "    bash$ MetaTools\r\n    bash$ \r\n    bash$ Projects:\r\n    bash$ \r\n    bash$ Sharding (android, ios)\r\n    bash$ VectBall (android, ios)\r\n    bash$ Carriers (android, ios)\r\n    bash$ Orbiters (android, ios)\r\n    bash$ \r\n    bash$ Contact",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
