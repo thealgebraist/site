@@ -1,0 +1,54 @@
+https://keybase.io/thealgebraist
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thealgebraist.github.io
+  * I am thealgebraist (https://keybase.io/thealgebraist) on keybase.
+  * I have a public key ASAoA2Ei6e-u2GnblBge6aR6zAJAxy-n1O5hA4hbqKy5-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208abfb49e3b3bcb5ce2274876e0874c12e079ebb120cfb026b8705162c0cb54280a",
+      "host": "keybase.io",
+      "kid": "012028036122e9efaed869db94181ee9a47acc0240c72fa7d4ee6103885ba8acb9f80a",
+      "uid": "038bc7f029f36bed2cf49b2d96a5ca19",
+      "username": "thealgebraist"
+    },
+    "merkle_root": {
+      "ctime": 1525345079,
+      "hash": "e416c7889ab85b11e995b1f6d5ed5446350910ffcfd7e23036cea996e7f06a2ebc2ec64bf44a9b8a32b34f4af6f1b1cc4140becf72008b80241cfd7fe9af9805",
+      "hash_meta": "6bb3e2dbe0b1ba6a9eca6a60f62f9669cead2645b0d5d7acf7bacd56c39e5b92",
+      "seqno": 2474831
+    },
+    "service": {
+      "entropy": "872wEalGe8hk4MRRnOJ1C6Wp",
+      "hostname": "thealgebraist.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1525345084,
+  "expire_in": 504576000,
+  "prev": "364a04e2328524ff8566648b384fe13c815bfe2520138a13e9f242707da57d6b",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKANhIunvrthp25QYHumkeswCQMcvp9TuYQOIW6isufgKp3BheWxvYWTESpcCEcQgNkoE4jKFJP+FZmSLOE/hPIFb/iUgE4oT6fJCcH2lfWvEID9XUhy6SahgbYSpeoYXGL3TB5fy4SGUp81vGQzxSV6XAgHCo3NpZ8RABYObc+ccZE5+gpEe+mj39xTzWbAyI5yeVh9lyIoKPjt54d9vwqgao9lcgWXr3TTyDFAuMLHbLALaKeDqT0k8C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILcUmk7+UPs/LyNQGn+LrvLw8Pjm2cBvksLUteIvVWc7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thealgebraist
+
